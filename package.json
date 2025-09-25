@@ -1,7 +1,7 @@
 {
   "name": "b24ds09",
   "version": "1.0.0",
-  "author": "Kisih",
+  "author": "Lidiia Pimenova",
   "license": "MIT",
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",

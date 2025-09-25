@@ -1,7 +1,7 @@
 .DS_Store
 .thumbs
 yarn-error.log
-/node_modules
+/node_modules/
 /dev_build/*.html
 /dev_build/*.css
 /dev_build/*.js
